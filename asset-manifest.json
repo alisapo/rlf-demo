@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rlf-demo/static/css/main.4f01b1d8.chunk.css",
+    "main.js": "/rlf-demo/static/js/main.521ccd87.chunk.js",
+    "main.js.map": "/rlf-demo/static/js/main.521ccd87.chunk.js.map",
+    "runtime-main.js": "/rlf-demo/static/js/runtime-main.37a0c558.js",
+    "runtime-main.js.map": "/rlf-demo/static/js/runtime-main.37a0c558.js.map",
+    "static/js/2.63dc213e.chunk.js": "/rlf-demo/static/js/2.63dc213e.chunk.js",
+    "static/js/2.63dc213e.chunk.js.map": "/rlf-demo/static/js/2.63dc213e.chunk.js.map",
+    "index.html": "/rlf-demo/index.html",
+    "static/css/main.4f01b1d8.chunk.css.map": "/rlf-demo/static/css/main.4f01b1d8.chunk.css.map",
+    "static/js/2.63dc213e.chunk.js.LICENSE.txt": "/rlf-demo/static/js/2.63dc213e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37a0c558.js",
+    "static/js/2.63dc213e.chunk.js",
+    "static/css/main.4f01b1d8.chunk.css",
+    "static/js/main.521ccd87.chunk.js"
+  ]
+}
